@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dreadnought31
 - 👀 I’m interested in ... New Technologies, Music, Science Fiction
-- 🌱 I’m currently learning ...Cybersecurity courses
+- 🌱 I’m currently learning/doing ...AI, Cybersecurity, Leadership and Management and AWS courses
 - 💞️ I’m looking to collaborate on ...nothing at the mo
 - 📫 How to reach me ...alan.obrien@ehs.com
 
